@@ -8,6 +8,7 @@ function App() {
     <div className="App">
      <h1>new computed</h1>
      <h1>new computed</h1>
+     <h1>new computed</h1>
     </div>
   );
 }
